@@ -1,5 +1,4 @@
 #  DELICIOUS SWEETS
-[Link do Projeto](https://aliriocel.github.io/projeto-site-de-esporte/)
 
 ##### []((https://github.com/isaquelessa)) By Isaque Lessa
 
